@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import {
   useCreateReviewMutation,
   useGetProductDetailsQuery,
-} from "../../redux/api/productApiSlice";
+} from "../../redux/api/ProductApiSlice";
 import Loader from "../../components/Loader";
 import Message from "../../components/Message";
 import {
