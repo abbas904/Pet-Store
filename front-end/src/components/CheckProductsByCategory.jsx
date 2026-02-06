@@ -1,4 +1,4 @@
-import { useAllProductsQuery } from "../redux/api/productApiSlice";
+import { useAllProductsQuery } from "../redux/api/ProductApiSlice";
 import { useFetchCategoriesQuery } from "../redux/api/categoryApiSlice";
 import { useEffect } from "react";
 
