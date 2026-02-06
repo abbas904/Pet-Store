@@ -4,7 +4,7 @@
 
 body {
     /* صورة الخلفية */
-    background-image: url('../puplic/bg.jpg');
+    background-image: url('../public/bg.jpg');
 
     /* تغطية كل الصفحة */
     background-size: cover;
