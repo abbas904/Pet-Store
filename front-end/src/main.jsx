@@ -24,7 +24,7 @@ import ProductUpdate from "./pages/Admin/ProductUpdate";
 
 import Home from "./pages/Home.jsx";
 import Favorites from "./pages/products/Favourites.jsx";
-import ProductDetails from "./pages/Products/ProductDetails.jsx";
+import ProductDetails from "./pages/products/ProductDetails.jsx";
 
 import Cart from "./pages/Cart.jsx";
 import Shop from "./pages/Shop.jsx";
