@@ -71,8 +71,8 @@ weather api -2/
 weather api app/
 
 # Ignore any other personal/temporary files
-*.html
-*.js
+# NOTE: Do not ignore all *.js / *.html globally (this repo is primarily JS).
+# Add specific paths/patterns here if you have personal scratch files to exclude.
 
 ../Retro
 ../Shoppix
@@ -82,6 +82,8 @@ weather api app/
 ../menu-food
 ../portfolio
 ../react-movie-master
+
+
 
 
 
